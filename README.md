@@ -47,17 +47,22 @@ Obviously there are some differences:
 Other companies have tried to create their own game pads as follows:
 
 Steam:
+
 ![Alt Text](https://www.gamestop.ie/productImages/247430/3max.jpg)
 
 
 Amazon:
+
 ![Alt Text](http://ecx.images-amazon.com/images/I/41XWvjU0-ZL._SX300_QL70_.jpg)
 
 MadCatz:
+
 ![Alt Text](https://afterpad.com/mficontrollers/images/madcatz_ctrli_1280.png)
 MadCatz Morphing Conroller:
+
 ![Alt Text](http://store.madcatz.com/MCB32267_LYNX9_BLK_001_lg.jpg)
 MadCatz:
+
 ![Alt Text](http://www.extremetech.com/wp-content/uploads/2015/01/MadCatz-LYNX-640x353.jpeg)
 
 These controllers are using the same principles as the others with the presence of the analog stick, four buttons to the right and the rear bumpers. Not to mention the similar shape their all following, as they say don't fix what isn't broken.
